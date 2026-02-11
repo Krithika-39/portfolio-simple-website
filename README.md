@@ -1,18 +1,18 @@
 My Personal Portfolio Website
 
-## 📖 Project Description
+##  Project Description
 This is my personal portfolio website built using **HTML5** and **CSS3**.  
 The website is designed with a clean and simple layout to showcase my profile and provide contact information.
 
 It consists of two main pages:
-- 🏠 Home Page  
-- 📞 Contact Page  
+-  Home Page  
+-  Contact Page  
 
 This project helped me practice structuring web pages with HTML and styling them using CSS.
 
 ---
 
-## 🗂 Pages Included
+##  Pages Included
 
 ###  Home Page
 - Introduction section  
