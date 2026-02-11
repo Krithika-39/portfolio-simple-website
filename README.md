@@ -46,6 +46,9 @@ The purpose of this project is to practice front-end web development fundamental
 
 ---
 
+## website link
+https://krithika-39.github.io/portfolio-simple-website/
+
 ##  How to Run the Project
 1. Download or clone the repository  
 2. Open the project folder  
