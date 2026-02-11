@@ -46,7 +46,7 @@ The purpose of this project is to practice front-end web development fundamental
 
 ---
 
-## website link
+## website field
 https://krithika-39.github.io/portfolio-simple-website/
 
 ##  How to Run the Project
@@ -55,8 +55,6 @@ https://krithika-39.github.io/portfolio-simple-website/
 3. Open `index.html` in your browser  
 
 ---
-Website field:
-[link]
-## 📬 Contact
+##  Contact
 Feel free to reach out through the Contact page of the website.
 
